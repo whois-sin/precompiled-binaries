@@ -75,7 +75,7 @@ Collection of useful tools, scripts and pre-compiled binaries for enumerating an
 
 | | Name | Description | Download |
 | --- | --- | --- | --- |
-|| [mimikatz](https://github.com/ParrotSec/mimikatz) | Credential dumping and ticket attacks | https://github.com/jakobfriedl/precompiled-binaries/raw/main/Credentials/mimikatz.exe | 
+|| [mimikatz](https://github.com/ParrotSec/mimikatz) | Credential dumping and ticket attacks | https://github.com/jakobfriedl/precompiled-binaries/raw/main/Credentials/mimikatz.exe |
 || [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) | Credential gathering | https://github.com/jakobfriedl/precompiled-binaries/raw/main/Credentials/SharpDPAPI.exe |
 |★| [SharpChrome](https://github.com/GhostPack/SharpDPAPI) | Credential gathering (specifically from Chrome) | https://github.com/jakobfriedl/precompiled-binaries/raw/main/Credentials/SharpChrome.exe |
 || [SharpKatz](https://github.com/b4rtik/SharpKatz) | C# Port of mimikatz | https://github.com/jakobfriedl/precompiled-binaries/raw/main/Credentials/SharpKatz.exe |
@@ -101,6 +101,7 @@ Collection of useful tools, scripts and pre-compiled binaries for enumerating an
 |★| [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) | Enumeration |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/PowerView.ps1 |
 |★| [Powermad](https://github.com/Kevin-Robertson/Powermad) | MachineAccountQuota and DNS Exploitation |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/Powermad.ps1 |
 || [Inveigh](https://github.com/Kevin-Robertson/Inveigh) | MitM Attacks & Spoofing |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/Inveigh.ps1 |
+|| [Invoke-Mimikatz](https://gitlab.com/kalilinux/packages/powershell-empire/-/raw/kali/master/empire/server/data/module_source/credentials/Invoke-Mimikatz.ps1) | Reflectively loads Mimikatz in memory using PowerShell | (https://raw.githubusercontent.com/whois-sin/precompiled-binaries/refs/heads/main/Scripts/Inveigh.ps1) |
 || [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc) | Windows Privilege Escalation |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/PowerUp.ps1 |
 || [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | SQL Server Enumeration and Exploitation |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/PowerUpSQL.ps1 |
 || [LAPSToolkit](https://github.com/leoloobeek/LAPSToolkit) | LAPS Password dumping |  https://github.com/jakobfriedl/precompiled-binaries/raw/main/Scripts/LAPSToolkit.ps1 |
