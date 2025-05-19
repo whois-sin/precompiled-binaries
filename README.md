@@ -20,7 +20,6 @@ Collection of useful tools, scripts and pre-compiled binaries for enumerating an
 > [!CAUTION]
 > ONLY use for ethical purposes and against targets that you are permitted to attack!
 
-
 ## Credit
 
 This repository was originally forked from [jakobfriedl](https://github.com/jakobfriedl/precompiled-binaries). I have modified and expanded it for my own OSCP study purposes, incorporating more tools and binaries that I've used in CTFs and penetration testing exercises. All credit for the original work goes to the creator.
@@ -94,6 +93,7 @@ This repository was originally forked from [jakobfriedl](https://github.com/jako
 |    | [NetworkServiceExploit](https://github.com/decoder-it/NetworkServiceExploit) | Token Impersonation, SeImpersonatePrivilege                                                                                                                        | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/Token/NetworkServiceExploit.exe |
 |    | [GodPotato](https://github.com/BeichenDream/GodPotato)                       | Token Impersonation, SeImpersonatePrivilege                                                                                                                        | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/Token/GodPotato.exe             |
 |    | [JuicyPotato](https://github.com/ohpe/juicy-potato)                          | Token Impersonation, SeImpersonatePrivilege                                                                                                                        | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/Token/JuicyPotato.exe           |
+|    | [JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG)                | Token Impersonation, SeImpersonatePrivilege                                                                                                                        | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/Token/JuicyPotatoNG.exe         |
 | ★ | [SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato)                 | Token Impersonation, SeImpersonatePrivilege                                                                                                                        | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/Token/SharpEfsPotato.exe        |
 |    | [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp)                           | Universal Local Privilege Escalation in Domains where LDAP signing is not enforced                                                                                 | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/KrbRelayUp.exe                  |
 |    | [KrbRelay](https://github.com/cube0x0/KrbRelay)                              | Privilege Escalation by relaying Kerberos from DCOM connection (Manual alternative to KrbRelayUp)                                                                  | https://github.com/whois-sin/precompiled-binaries/raw/main/PrivilegeEscalation/KrbRelay/KrbRelay.exe           |
